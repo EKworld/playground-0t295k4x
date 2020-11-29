@@ -6,7 +6,7 @@ This C# template lets you get started quickly with a simple one-page playground.
 // { autofold
 using System;
 
-class  Bonjour Elias  le Bg 
+class  slteliaslebg 
 {
     static void Main() 
     {
