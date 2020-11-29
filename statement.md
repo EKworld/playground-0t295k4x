@@ -6,13 +6,13 @@ This C# template lets you get started quickly with a simple one-page playground.
 // { autofold
 using System;
 
-class Hello 
+class  Bonjour Elias  le Bg 
 {
     static void Main() 
     {
 // }
 
-Console.WriteLine("Hello World!");
+Console.WriteLine("Salut Nanoure")
 
 // { autofold
     }
